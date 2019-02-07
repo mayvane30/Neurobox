@@ -99,7 +99,7 @@ p {
 #header .bl { height: 157px; }
 
 #header .tr { background: url(images/header_tr.gif) top right no-repeat; }
-#header .bl { background: url(images/header_bl.gif) bottom left no-repeat; }
+#header .bl { background: url(images/fondo1.jpg) bottom left no-repeat; }
 #header .br { background: url(images/header_br.jpg) bottom right no-repeat; width:100%;}
 
 /* the story of two navs */
